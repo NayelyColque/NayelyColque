@@ -1,6 +1,5 @@
 # Oioi 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117)]([https://linkedin.com/in/garaújo](https://www.linkedin.com/in/nayely-colque-mamani-7a10b9277))&nbsp;
 [![Email](https://img.shields.io/badge/-EMAIL-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:nayelycolquemamani@gmail.com)&nbsp;
 
 ---

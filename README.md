@@ -8,7 +8,13 @@ Sou a Nayely, tenho 17 anos e atualmente estou cursando **Desenvolvimento de Sis
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 📊 Principais Linguagens
+
+<div align="center">
+	<img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayelycolque&layout=compact&hide_border=true&title_color=00df7f7&text_color=00df7f7&bg_color=0d1117&hide=html,css,scss" />
+</div>
+
+---
 
 <p align="center">
   <img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="Microsoft .NET Core" title="Microsoft .NET Core"/>
@@ -29,9 +35,5 @@ Sou a Nayely, tenho 17 anos e atualmente estou cursando **Desenvolvimento de Sis
 
 ---
 
-### 📊 Principais Linguagens
 
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayelycolque&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 ---

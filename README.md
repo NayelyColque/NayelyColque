@@ -1,19 +1,12 @@
 # Oioi 👋
 
-[![Email](https://img.shields.io/badge/-EMAIL-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:nayelycolquemamani@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayely-colque-mamani-7a10b9277/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayelycolquemamani@gmail.com)
 
----
-
-Sou a Nayely, tenho 17 anos e atualmente estou cursando **Desenvolvimento de Sistemas** pela [Etec Professor Horácio Augusto da Silveira](https://etechoracio.com.br/has/)
-
----
-
-### 📊 Principais Linguagens
+Tudo bem? Eu sou a Nayely, tenho 17 anos e atualmente estou cursando **Desenvolvimento de Sistemas** na [**Etec Professor Horácio Augusto da Silveira**](https://etechoracio.com.br/has/)
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayelycolque&layout=compact&theme=tokyonight" alt="Top Langs"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nayelycolque&show_icons=true&theme=tokyonight&rank_icon=github" alt="Nayely's GitHub Stats"/>
 </p>
 
 ---
@@ -34,8 +27,5 @@ Sou a Nayely, tenho 17 anos e atualmente estou cursando **Desenvolvimento de Sis
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
 </p>
-
----
-
 
 ---

@@ -10,9 +10,11 @@ Sou a Nayely, tenho 17 anos e atualmente estou cursando **Desenvolvimento de Sis
 
 ### 📊 Principais Linguagens
 
-<div align="center">
-	<img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayelycolque&layout=compact&hide_border=true&title_color=00df7f7&text_color=00df7f7&bg_color=0d1117&hide=html,css,scss" />
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayelycolque&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  </a>
+</p>
 
 ---
 
